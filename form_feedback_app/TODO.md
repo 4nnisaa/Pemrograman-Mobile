@@ -1,0 +1,3 @@
+- [ ] Edit lib/feedback_form_page.dart: Replace content with FeedbackFormPage class (form with TextFields for nama and komentar, Slider for rating, ElevatedButton to submit and navigate to FeedbackResultPage)
+- [ ] Edit lib/feedback_result_page.dart: Change rating parameter from int to double for consistency
+- [ ] Run flutter analyze to verify no errors
