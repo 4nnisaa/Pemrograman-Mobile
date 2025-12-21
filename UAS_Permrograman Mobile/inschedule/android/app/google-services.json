@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "57042941964",
+    "firebase_url": "https://inschedule-e9cd0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "inschedule-e9cd0",
+    "storage_bucket": "inschedule-e9cd0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57042941964:android:d7bc4dda105a2d4a2b1629",
+        "android_client_info": {
+          "package_name": "com.example.inschedule"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1JjxEIEmAE7TMGes-KD5eT5B-44nVoq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,47 @@
+name: inschedule
+description: Aplikasi Inschedule - UAS Pemrograman Mobile Kelas 5C
+version: 1.0.0+1
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # ===== STATE MANAGEMENT =====
+  provider: ^6.1.2
+  shared_preferences: ^2.3.2
+
+  # ===== NETWORK & UTIL =====
+  http: ^1.2.2
+  intl: ^0.20.2
+
+  # ===== FIREBASE =====
+  firebase_core: ^2.30.1
+  firebase_auth: ^4.19.6
+  cloud_firestore: ^4.17.5
+  firebase_database: ^10.5.7
+
+  # ===== NOTIFICATION =====
+  flutter_local_notifications: ^17.1.2
+  timezone: ^0.9.3
+
+  # ===== LOCALIZATION =====
+  flutter_localizations:
+    sdk: flutter
+
+  # ===== UI =====
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.2
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/logo.png
